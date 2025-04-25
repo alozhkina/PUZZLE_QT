@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>go-green-backgrounds-18243-hd-widescreen-wallpapers-1024x768.jpg</file>
+    </qresource>
+</RCC>

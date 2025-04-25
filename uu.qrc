@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/prefix1"/>
+    <qresource prefix="/prefix"/>
+    <qresource prefix="/"/>
+    <qresource prefix="/pr"/>
+    <qresource prefix="/\"/>
+</RCC>
